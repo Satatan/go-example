@@ -9,7 +9,6 @@ func main() {
 	fmt.Printf("Version: %s\n", version)
 
 	fmt.Println(hello())
-	fmt.Println(hello())
 }
 
 func hello() string {
