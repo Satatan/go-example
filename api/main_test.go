@@ -4,7 +4,7 @@ import "testing"
 
 func TestHello(t *testing.T) {
 
-	want := "Hello Golan"
+	want := "Hello Golang"
 
 	got := hello()
 
